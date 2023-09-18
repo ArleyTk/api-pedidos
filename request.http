@@ -3,12 +3,12 @@ POST http://localhost:9000/api/users HTTP/1.1
 Content-Type: application/json
 
 {
-  "idpedido": 1000,
-  "descpedido": "Pedido pack de carnes",
-  "preciopedido": 200000,
-  "fechapedido": "05/07/23",
-  "productospedido": "Carne de pollos, Carne de cerdo, Salchicha",
-  "clientepedido": "Donde el cucho"
+  "idpedido": 1001,
+  "descpedido": "Pedido pack de arroz",
+  "preciopedido": 150000,
+  "fechapedido": "06/07/23",
+  "productospedido": "Granos",
+  "clientepedido": "Juandagranulado"
 }
 
 ###
